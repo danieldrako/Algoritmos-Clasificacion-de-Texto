@@ -1,4 +1,4 @@
-# Algoritmos-Clasificacion-de-Texto
+# Algoritmos de Clasificacion de Texto
 
 Conceptos de desambiguación, etiquetado de palabras e implementación de  algoritmos de clasificación de texto desde cero usando Python y NLTK.
 
